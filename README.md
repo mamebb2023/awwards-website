@@ -1,2 +1,1 @@
-# awwards-website
-Duplicating Awwwards Winning Website
+### Duplicating Awwwards Winning Website
